@@ -4,3 +4,4 @@ In Web Development were learning Git. Git is a
  I am learning Git fundamentals.
  Git tracks every change I make.
  I can commit my work to save progress.
+ I pushed my first repo to GitHub!
