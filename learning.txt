@@ -1,3 +1,6 @@
 In Web Development were learning Git. Git is a
  program that helps keep everything organized. It
- is helpful for individuals, or a team alike. 
+ is helpful for individuals, or a team alike.
+ I am learning Git fundamentals.
+ Git tracks every change I make.
+ I can commit my work to save progress.
